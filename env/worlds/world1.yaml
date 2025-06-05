@@ -1,0 +1,7 @@
+free_thresh: 0.90
+negate: 0
+origin: [-4.500000, -2.600000, 0.0]
+resolution: 0.050000
+mode: trinary
+occupied_thresh: 0.95
+image: /home/ri-robot/PhD/starworlds_ws/gazebo_map_creator_ws/map.pgm
