@@ -22,7 +22,7 @@ sudo apt install ros-noetic-turtlebot3-description ros-noetic-fake-localization 
 mkdir -p sr_ws/src
 cd sr_ws/src
 git clone https://github.com/kkkkkaiai/starshaped_roadmap.git
-cd ../.. && catkin_make
+cd .. && catkin_make
 ```
 ## Execute
 
